@@ -42,3 +42,5 @@ và xếp loại của 3 sinh viên trên Terminal.
 
 Thêm ảnh chụp màn hình kết quả chạy chương trình tại đây.
 <img width="342" height="35" alt="image" src="https://github.com/user-attachments/assets/c10d3928-38b8-458a-96bd-420fc72e370c" />
+<img width="249" height="227" alt="image" src="https://github.com/user-attachments/assets/60d921b6-36c1-46f6-9227-4c175a5818cd" />
+
